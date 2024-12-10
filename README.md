@@ -35,16 +35,16 @@ The **Java Quiz App** is an interactive and responsive web application designed 
 
 ## Screenshots
 1. **Start Screen**:
-   ![Start Quiz]()
+   ![Start Quiz](https://github.com/imtahirnaseer/Java-Quiz-App/blob/5ded45ed292eb1ffd4408cabd8bbca3ed3e51c75/Screenshot%202024-12-10%20182942.png)
 
 2. **Instruction Screen**:
-   ![Question Screen]()
+   ![Rules Screen](https://github.com/imtahirnaseer/Java-Quiz-App/blob/5ded45ed292eb1ffd4408cabd8bbca3ed3e51c75/Screenshot%202024-12-10%20182959.png)
 
 3. **Question Screen**:
-   ![Question Screen]()
+   ![Question Screen](https://github.com/imtahirnaseer/Java-Quiz-App/blob/5ded45ed292eb1ffd4408cabd8bbca3ed3e51c75/Screenshot%202024-12-10%20183029.png)
 
 4. **Result Screen**:
-   ![Result Screen]()
+   ![Result Screen](https://github.com/imtahirnaseer/Java-Quiz-App/blob/5ded45ed292eb1ffd4408cabd8bbca3ed3e51c75/Screenshot%202024-12-10%20183047.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to add features or fix bugs, feel free to fork the repository and create a pull request.
